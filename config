@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+[http]
+	sslVerify = true
+[remote "origin"]
+	url = https://github.com/EmreAkkus/Empty_repo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
